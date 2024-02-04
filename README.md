@@ -39,6 +39,5 @@ cd Zindi-Lacuna-Masakhane-POS-Challenge
 
 ## Acknowledgments
 - Special thanks to [Zindi](https://zindi.africa/) for hosting the competition.
-- Acknowledgment to Takwimu Lab association and AI4D-Africa for providing the data.
 
 Feel free to explore the code and contribute to the development of the POS tagging models for low-resourced  African languages.
