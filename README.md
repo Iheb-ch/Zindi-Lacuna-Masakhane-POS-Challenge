@@ -13,10 +13,10 @@ The objective of this challenge is to create a machine learning solution that co
 The training set of 19 languages is available at this repo: https://github.com/masakhane-io/masakhane-pos
 
 The testing set is made of Luo and Setswana (not included in train)
-![Alt text](image.png){:width="5%", :height="20%"}
+![Alt text](images/image.png){:width="5%", :height="20%"}
 
 ## Solution
-![Alt text](image-1.png){:width="100px"}
+![Alt text](images/image-1.png){:width="100px"}
 
 ## Repository Files
 - `dataset.py`: PyTorch class for the customized dataset.
