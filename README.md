@@ -6,8 +6,6 @@ This repository contains the 2nd place solution for the Lacuna Masakhane Parts o
 **Competition Link:** [Lacuna Masakhane Parts of Speech Classification Challenge](https://zindi.africa/competitions/lacuna-masakhane-parts-of-speech-classification-challenge/leaderboard)
 
 ## Problem Statement
-Ewe and Fongbe are closely related tonal languages spoken in Togo, southeastern Ghana, and Benin. Despite being core to the economic and social life of major West African capital cities, they are rarely written, hindering access to critical facilities like education, banking, and healthcare for non-French/English speakers. The competition sought to develop a machine translation system to convert French text into Fongbe or Ewe, with the challenge of working efficiently with limited available data.
-
 The objective of this challenge is to create a machine learning solution that correctly classifies 14 parts of speech for the unrelated Luo and Setswana languages. We need to build one solution that applies to both languages, not two solutions, one for each language.
 
 The training set of 19 languages is available at this repo: https://github.com/masakhane-io/masakhane-pos
